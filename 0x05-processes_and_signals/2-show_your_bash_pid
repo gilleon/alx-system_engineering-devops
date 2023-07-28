@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Thibashs script displays lines
+ps -auxf | grep bash

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# bash script for running processes
+ps -auxf
