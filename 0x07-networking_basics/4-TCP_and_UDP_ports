@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# vailable listening port
+netstat -l -p
